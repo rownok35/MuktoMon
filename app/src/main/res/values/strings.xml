@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">মুক্তমন</string>
+    <string-array name="text">
+        <item>স্বাগতম!!</item>
+        <item>আশা করি আপনার দিন অনেক সুন্দর যাচ্ছে!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114644260663",
+    "firebase_url": "https://muktomon2-40571.firebaseio.com",
+    "project_id": "muktomon2-40571",
+    "storage_bucket": "muktomon2-40571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114644260663:android:1a33d540c9051f01f82cb2",
+        "android_client_info": {
+          "package_name": "com.example.muktomon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114644260663-f3m30146uhb2n2aojsacaj9egvn66k6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muktomon2",
+            "certificate_hash": "ed1c93cbcc7b072f235626e4fa0fe8714acef7a5"
+          }
+        },
+        {
+          "client_id": "114644260663-tbo90j94818qn7pulqh7vvaar2ft2lc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KSjrIjd-TRWsIdwyvJo6L4DHrlETDmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114644260663-tbo90j94818qn7pulqh7vvaar2ft2lc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
